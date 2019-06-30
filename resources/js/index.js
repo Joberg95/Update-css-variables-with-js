@@ -5,6 +5,7 @@ function handleUpdate() {
   console.log(this.value);
   console.log(suffix);
   console.log(this.dataset);
+  document.documentElement.style.setProperty(`--${this.name}`, this.value + suffix);
 
 }
 
