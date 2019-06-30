@@ -1,5 +1,8 @@
 ## Update CSS variables using JS with a color picker.
 
+## Deployed site
+[link](https://jolly-kirch-3d8f83.netlify.com/)
+
 ### Use sliders to update blur and spacing
 
 ## Screenshot 
